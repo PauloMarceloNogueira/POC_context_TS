@@ -1,0 +1,12 @@
+{
+  "name": "poc_contexts",
+  "displayName": "poc_contexts",
+  "expo": {
+    "name": "poc_contexts",
+    "slug": "poc_contexts",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
